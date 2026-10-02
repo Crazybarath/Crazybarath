@@ -9,7 +9,7 @@ Developer building web interfaces, prototypes and AI automation tools.
 
 ## Portfolio
 
-Personal portfolio: [anandbaratwaj.vercel.app](https://anandbaratwaj.vercel.app/)
+Personal portfolio: [crazybarath.github.io](https://crazybarath.github.io/)
 
 ## Open source
 
